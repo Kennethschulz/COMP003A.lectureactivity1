@@ -1,4 +1,9 @@
-﻿// namespace level
+﻿/* 
+Author: Kenneth Schulz
+course: Comp-003A
+purpose: Basic console app
+ */
+// namespace level
 namespace COMP003A.lectureactivity1
 {
     // class level
